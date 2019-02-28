@@ -129,4 +129,10 @@ public class MemberController {
 	{
 		return "member/adminPage";
 	}
+	
+	@RequestMapping("/2222222222")
+	public String ma111()
+	{
+		return "/";
+	}
 }
