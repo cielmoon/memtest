@@ -133,6 +133,14 @@ public class MemberController {
 	@RequestMapping("/2222222222")
 	public String ma111()
 	{
+		
+		return "";
+	}
+	
+	@RequestMapping("/2222222222")
+	public String ma1122222()
+	
+	{
 		return "/";
 	}
 }
