@@ -137,10 +137,4 @@ public class MemberController {
 		return "";
 	}
 	
-	@RequestMapping("/2222222222")
-	public String ma1122222()
-	
-	{
-		return "/";
-	}
 }
